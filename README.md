@@ -27,7 +27,7 @@ I am a **Bioinformatician** and **Applied Mathematician** specializing in the in
 
 ---
 
-## 📑 Selected Publications & Research
+## 📑  Publications & Research
 
 1. Psonis, N., Tabakaki, E., Vassou, D. et al. Genetic affinities between the ancient Greek colony of Amvrakia and its metropolis. Genome Biol 27, 96 (2026).
    [![DOI](https://doi.org/10.1186/s13059-026-03968-5)](#)
@@ -74,19 +74,9 @@ I am a **Bioinformatician** and **Applied Mathematician** specializing in the in
 ---
 
 ## ⚡ Beyond the Lab (Fun Facts)
-- 🧩 I enjoy bridging abstract mathematical concepts with tangible biological data.
+- 🧩 I enjoy bridging abstract mathematical concepts with  biological data.
 - 🏃‍♀️ I'm a fan of [Running/Hiking/Crochet/Music].
 - 📚 Reading about science and be curious about new novelties
-
----
-
-## 🤝 Let's Collaborate
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-</p>
 
 
 
