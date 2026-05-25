@@ -30,7 +30,6 @@ I am a **Bioinformatician** and **Applied Mathematician** specializing in the in
 ## 📑  Publications & Research
 
 1. Psonis, N., Tabakaki, E., Vassou, D. et al. Genetic affinities between the ancient Greek colony of Amvrakia and its metropolis. Genome Biol 27, 96 (2026).
-   [![DOI](https://doi.org/10.1186/s13059-026-03968-5)](#)
 
 ---
 
@@ -64,7 +63,7 @@ I am a **Bioinformatician** and **Applied Mathematician** specializing in the in
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marievang&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Maria's GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marievang&layout=compact&theme=radical&border_radius=10" alt="Maria's GitHub stats" />
 </p>
 
 <p align="center">
