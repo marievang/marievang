@@ -62,14 +62,15 @@ I am a **Bioinformatician** and **Applied Mathematician** specializing in the in
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marievang&layout=compact&theme=radical&border_radius=10" alt="Maria's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marievang&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marievang&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marievang&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marievang&theme=radical" />
 </p>
-
 ---
 
 ## ⚡ Beyond the Lab (Fun Facts)
