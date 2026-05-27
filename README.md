@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Maria%20Evangelinou&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
-##  Hello, I'm Maria!
+##  Hello, I'm Maria, welcome to my profile!
 
 I am a **Bioinformatician** and **Applied Mathematician** specializing in the intersection of **Mathematics**, **Biology** and **Programming**. My work focuses on leveraging mathematical modeling and computational intelligence to unlock secrets from biological data and complex omics layers.
 
